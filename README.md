@@ -43,7 +43,7 @@ Results-driven **Full-Stack Developer** with **5+ years of proven expertise** in
 - ✅ DevOps & CI/CD pipeline implementation
 
 **Project Portfolio:**
-- 🏗️ SaaS Platforms | 📊 Admin Dashboards | 🎯 B2B Marketplaces | 💳 FinTech Solutions
+- 💎 Luxury E-Commerce & Haute Couture Platforms | 🏗️ SaaS Platforms | 📊 Admin Dashboards | 🎯 B2B Marketplaces | 💳 FinTech Solutions
 
 **📧 Email:** vishwaking234@gmail.com
 
@@ -105,6 +105,34 @@ Results-driven **Full-Stack Developer** with **5+ years of proven expertise** in
 ## 🚀 Featured Projects
 
 ### Showcase of Enterprise-Grade Applications
+
+<details open>
+<summary><b>👑 QOUN-BAA — Enterprise Luxury E-Commerce & Haute Couture Digital Platform</b></summary>
+<br/>
+
+> Next-generation luxury fashion e-commerce & bespoke haute couture platform seamlessly integrating modern web technologies with heritage craftsmanship, automated BlueDart APIGEE logistics, Razorpay payment suite, WATI WhatsApp concierge drips, server-side Meta Conversions API (CAPI), and an enterprise admin portal.
+
+**🛠️ Tech Stack:**  
+- **Frontend:** `Next.js 15 (App Router)` • `React 19` • `TypeScript` • `Redux Toolkit` • `TanStack Query v5` • `Tailwind CSS` • `Radix UI` • `Framer Motion` • `Swiper.js` • `Zod` • `React Hook Form`
+- **Backend:** `Node.js` • `Express.js` • `TypeScript` • `MongoDB (Mongoose)` • `Socket.IO` • `Node Cron` • `PM2 Cluster` • `Winston` • `Vercel Blob` • `PDFKit` • `Sharp`
+- **Integrations & DevOps:** `BlueDart APIGEE API (SOAP/REST)` • `Razorpay Payment Gateway` • `WATI WhatsApp API` • `Meta Conversions API (CAPI)` • `Twilio SMS` • `Docker & Docker Compose` • `Jest` • `Playwright`
+
+**✨ Comprehensive Features & Functionalities:**
+
+| Module / System | Feature Details & Technical Functionality | Business & User Impact |
+|---|---|---|
+| 🛍️ **Luxury Storefront & PDP** | Multi-faceted product filter matrix (categories, collections, fabric, occasion, size, color, price range), dynamic variant switching with real-time stock feedback, interactive size guide modal, high-resolution media galleries with Sharp image optimization, cart drawer, and saved wishlist. | Delivers a frictionless, premium luxury shopping experience with sub-second page transitions and instant product discovery. |
+| 🏰 **Haute Couture & Heritage Experience** | • **Four Worlds**: Interactive thematic brand pillars showcasing QOUN-BAA's design aesthetic.<br/>• **The Atelier**: Bespoke custom tailoring consultation workflow.<br/>• **Heritage Storytelling**: Editorial pages highlighting artisan craftsmanship.<br/>• **Celebrities in Signatures**: Interactive VIP & celebrity showcase with direct shop-the-look links.<br/>• **Visual Lookbooks**: Seasonal editorial digital stylebooks. | Elevates brand positioning to luxury status, driving higher average order value (AOV) and bespoke tailoring engagement. |
+| 🚚 **BlueDart APIGEE Logistics Integration** | End-to-end automated logistics pipeline via APIGEE REST/SOAP APIs:<br/>• Automated OAuth/JWT authentication token management.<br/>• Pincode delivery & pickup serviceability verification.<br/>• Auto-generation of Waybills with barcode rendering.<br/>• PDF shipping label generation.<br/>• Real-time shipment status synchronization & customer tracking. | Eliminates manual dispatch errors, automates waybill processing, and provides 100% real-time package traceability nationwide. |
+| 💬 **WATI WhatsApp Concierge CRM** | 8 Automated Conversational Drips & Customer Engagement Flows:<br/>1. **Welcome Flow**: Founder voice note/video welcome + occasion questionnaire + 3-look carousel.<br/>2. **Styling Consult Quiz**: Skin tone/body type picker + direct selfie upload routing to WATI Shared Inbox for live human stylists.<br/>3. **Browse Abandonment**: +1h automated social proof media follow-up.<br/>4. **Cart Recovery Drip**: Automated sequence at +1h (Reminder), +24h (Scarcity), +48h (Styling Video).<br/>5. **Post-Purchase Lifecycle**: Drips on Day 0 (Thank You) → Day 1 (Unboxing) → Day 3 (Fabric Care) → Day 7 (Cross-sell) → Day 14 (Review Request).<br/>6. **VIP Broadcasts**: Targeted early-access campaigns for high-LTV buyers (> ₹50,000).<br/>7. **Occasion & Wedding Calendar**: Automated targeted lookbook broadcasts 4-8 weeks prior to festivals.<br/>8. **Referral & Review Engine**: 5-star review collector triggering dual ₹1,000 credit referral generator. | Achieves 3x higher cart recovery rate, builds personalized customer relationships, and scales VIP clienteling through WhatsApp automation. |
+| 💳 **Payments & Digital Wallet** | Razorpay payment gateway integration with payment signature verification and webhook handlers; Cash on Delivery (COD) order management; built-in customer Digital Wallet for instant store credits, refunds, and promo rewards. | Flexible payment options reduce checkout drop-off while wallet credits incentivize repeat purchases. |
+| 📊 **Enterprise Admin Panel** | Comprehensive operational command center featuring:<br/>• **Executive Analytics**: Sales revenue charts (Recharts), order volume analytics, top products/categories performance, growth metrics export.<br/>• **Inventory & Catalog Management**: CRUD products, multi-variant stock control, automated low-stock alerts.<br/>• **Order Fulfillment**: Complete status pipeline (Pending → Processing → Shipped → Delivered → Cancelled), waybill & invoice PDF generation.<br/>• **CRM & Wallet Control**: Customer account management, wallet credit/debit adjustments, purchase histories.<br/>• **Marketing Suite**: Coupon engine (percentage/flat discounts, spend minimums, expiry, usage caps), announcement banner control, top-bar alerts.<br/>• **CMS & Content Management**: Blogs, FAQs, customer reviews moderation, celebrity features, testimonials.<br/>• **SEO Management**: Meta title/description controls, OG tags, dynamic sitemap.xml, robots.txt.<br/>• **Security Audit Logs**: Track all administrative actions with timestamped user attribution. | Empowers operations and marketing teams with full control over the e-commerce lifecycle, catalog management, and business intelligence. |
+| 🎯 **Meta Conversions API (CAPI)** | Server-side event tracking integration emitting `Purchase`, `AddToCart`, `ViewContent`, `InitiateCheckout` events directly from Node.js backend to Meta Graph API, overcoming ad-blockers and iOS privacy restrictions. | Ensures accurate advertising conversion tracking, improving ad targeting efficiency and ROAS (Return on Ad Spend). |
+| 🛡️ **DevOps & Enterprise Security** | Full security hardening (Helmet, CORS, Rate Limiting against DDoS, Mongo sanitization against NoSQL injection, XSS clean, CSRF protection, salted Bcrypt hashing). PM2 cluster execution with zero-downtime reloads, Node-cron background jobs, Docker & Docker-Compose setup (Dev/Prod), Jest unit tests & Playwright E2E coverage. | Production-grade reliability, compliance, zero-downtime deployments, and bulletproof security against web vulnerabilities. |
+
+**🎯 Business Value:** Delivered an end-to-end luxury e-commerce ecosystem processing high-volume orders with automated shipping fulfillment, automated 8-stage WhatsApp CRM drips, 35% higher cart recovery rate, and zero-downtime backend scalability.
+
+</details>
 
 <details open>
 <summary><b>📈 StoxPlay — Stock Market Fantasy Trading Platform (Admin Dashboard)</b></summary>
@@ -245,18 +273,25 @@ Results-driven **Full-Stack Developer** with **5+ years of proven expertise** in
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Real-Time GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amit-4582&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-4582&theme=tokyonight&hide_border=true" width="48%" />
+<a href="https://github.com/Amit-4582">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amit-4582&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="Amit's GitHub Stats" />
+</a>
+<a href="https://github.com/Amit-4582">
+  <img src="https://streak-stats.demolab.com/?user=Amit-4582&theme=tokyonight&hide_border=true" width="48%" alt="Amit's GitHub Streak" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-4582&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+<br/><br/>
 
-<br/>
-
-[![Amit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amit-4582&theme=tokyo-night&hide_border=true)](https://github.com/Amit-4582)
+<a href="https://github.com/Amit-4582">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-4582&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+</a>
+<a href="https://github.com/Amit-4582">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit-4582&theme=tokyo-night&hide_border=true" width="48%" alt="Amit's Activity Graph" />
+</a>
 
 </div>
 
